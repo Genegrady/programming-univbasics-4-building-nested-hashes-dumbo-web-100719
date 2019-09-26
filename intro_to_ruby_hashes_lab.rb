@@ -1,7 +1,7 @@
 def base_hash(key)
   
 base_hash = {
-  "Key" =>
+  key =>
 }
 
 end
