@@ -1,7 +1,7 @@
 def base_hash(key)
   
-base_hash.Hash.new = {
-  
+base_hash = {
+  "Key" =>
 }
 
 end
